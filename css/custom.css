@@ -1,0 +1,59 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+
+
+
+/* ----------------------------------------------------------------
+	Schedule styling	
+-----------------------------------------------------------------*/
+.schedule-container {
+}
+.schedule-container h4 {
+	font-size: 90%;
+	color: rgb(131, 131, 131);
+}
+.schedule-container h3 {
+	font-size: 1.3em;
+}
+.schedule-container .schedule-row {
+	padding-top: 2em;
+}
+.schedule-container .schedule-date h4{
+	margin-bottom:0;
+	/* line-height: 0px !important; */
+}
+.schedule-container .schedule-title h3{
+	margin-bottom: 1em;
+}
+
+.vertical-bottom {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 50%;
+	right: 0;
+}
+.side-contact{
+	padding-top:1em;
+}
+.divider {
+	content: '';
+	display: block;
+	width: 20%;
+	border-bottom: 1px solid #E5E5E5;
+}
+.retina-logo h5, .side-contact h5{
+	color: #a8a8a8;
+}
+.retina-logo {
+	margin-top: 0.6em;
+}
+a.small-link {
+	font-size: 50%;
+}
