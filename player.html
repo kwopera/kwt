@@ -1,23 +1,45 @@
-<link rel="stylesheet" href="player/APlayer.min.css">
-<link rel="stylesheet" href="style.css">
-<style>
-    body {
-        text-rendering: auto;
-    }
+<!DOCTYPE html>
+<html>
 
-    #evanyou-canvas {
-        z-index: -1 !important;
-    }
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <title>APlayer</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docute/dist/docute.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docute/dist/theme-github.css" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48084758-8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    .aplayer {
-        max-width: 500px;
-        margin: 20px 0;
-    }
+        gtag('config', 'UA-48084758-8');
+    </script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+    <style>
+        body {
+            text-rendering: auto;
+        }
 
-    .sidebar-toggle {
-        z-index: 90;
-    }
-</style>
+        #evanyou-canvas {
+            z-index: -1 !important;
+        }
+
+        .aplayer-wrap {
+            max-width: 700px;
+            margin: 20px 0;
+        }
+
+        .sidebar-toggle {
+            z-index: 90;
+        }
+    </style>
+</head>
 <div id="aplayer"></div>
 <script src="player/APlayer.min.js"></script>
 <script>
@@ -83,3 +105,5 @@
         ]
     });
 </script>
+
+</html>
