@@ -18,83 +18,95 @@
             z-index: -1 !important;
         }
 
-        .aplayer-wrap {
-            max-width: 700px;
-            margin: 20px 0;
+        .aplayer {
+            max-width: 500px;
+            margin: 20px auto;
         }
 
         .sidebar-toggle {
             z-index: 90;
         }
+
+        #heading {
+            text-align: center;
+        }
     </style>
 </head>
-<div id="aplayer"></div>
-<script src="player/APlayer.min.js"></script>
-<script>
-    const ap = new APlayer({
-        container: document.getElementById('aplayer'),
-        listFolded: false,
-        listMaxHeight: 500,
-        volume: 1.0,
-        autoplay: true,
-        theme: '#ff0000',
-        audio: [
-            {
-                name: 'The Vagabond',
-                artist: 'Kang Wang',
-                url: 'music/sot1.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'Let Beauty Awake',
-                artist: 'Kang Wang',
-                url: 'music/sot2.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'The Roadside Fire',
-                artist: 'Kang Wang',
-                url: 'music/sot3.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'Youth and Love',
-                artist: 'Kang Wang',
-                url: 'music/sot4.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'In Dreams',
-                artist: 'Kang Wang',
-                url: 'music/sot5.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'The Infinite Shining Heavens',
-                artist: 'Kang Wang',
-                url: 'music/sot6.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'Wither Must I Wander?',
-                artist: 'Kang Wang',
-                url: 'music/sot7.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'Bright is the Ring of Words',
-                artist: 'Kang Wang',
-                url: 'music/sot8.mp3',
-                cover: 'files/IMG_0772.JPG'
-            },
-            {
-                name: 'I Have Trod the Upward and the Downward Slope',
-                artist: 'Kang Wang',
-                url: 'music/sot9.mp3',
-                cover: 'files/IMG_0772.JPG'
-            }
-        ]
-    });
-</script>
+
+<body>
+    <div id="heading">
+        <h2>Vaughan Williams: Songs of Travel</h2>
+        <h3>沃恩.威廉姆斯：旅行之歌</h3>
+        <h4>演唱：王亢 | 钢琴: Gilbert Kalish</h4>
+    </div>
+    <div id="aplayer"></div>
+    <script src="player/APlayer.min.js"></script>
+    <script>
+        const ap = new APlayer({
+            container: document.getElementById('aplayer'),
+            listFolded: false,
+            listMaxHeight: 500,
+            volume: 1.0,
+            autoplay: true,
+            theme: '#ff0000',
+            audio: [
+                {
+                    name: 'The Vagabond',
+                    artist: 'Kang Wang',
+                    url: 'music/sot1.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'Let Beauty Awake',
+                    artist: 'Kang Wang',
+                    url: 'music/sot2.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'The Roadside Fire',
+                    artist: 'Kang Wang',
+                    url: 'music/sot3.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'Youth and Love',
+                    artist: 'Kang Wang',
+                    url: 'music/sot4.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'In Dreams',
+                    artist: 'Kang Wang',
+                    url: 'music/sot5.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'The Infinite Shining Heavens',
+                    artist: 'Kang Wang',
+                    url: 'music/sot6.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'Wither Must I Wander?',
+                    artist: 'Kang Wang',
+                    url: 'music/sot7.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'Bright is the Ring of Words',
+                    artist: 'Kang Wang',
+                    url: 'music/sot8.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                },
+                {
+                    name: 'I Have Trod the Upward and the Downward Slope',
+                    artist: 'Kang Wang',
+                    url: 'music/sot9.mp3',
+                    cover: 'files/IMG_0772.JPG'
+                }
+            ]
+        });
+    </script>
+</body>
 
 </html>
