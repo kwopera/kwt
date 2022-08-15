@@ -1,0 +1,12 @@
+title: KANG WANG Tenor
+logo: /assets/img/logo.png
+description: Official website of tenor Kang Wang
+show_downloads: true
+future: true
+google_analytics:
+theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

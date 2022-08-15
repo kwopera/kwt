@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">KANG WANG</a><small> Tenor </small></h1>
+        <div class="photogrid">
+        {% for image in site.static_files %}
+          {% if image.path contains 'img/grid' %}
+          <span class="{{ image.basename }}">
+            <a href="#{{ image.basename }}">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="image"/>
+            </a>
+          </span>
+          {% endif %}
+        {% endfor %}
+        </div>
+        {% for image in site.static_files %}
+          {% if image.path contains 'img/full' %}
+          <a href="#" class="lightbox" id="{{ image.basename }}">
+          <img src="{{ site.baseurl }}{{ image.path }}" alt="image"/> 
+          </a>
+          {% endif %}
+        {% endfor %}
+        <!-- End of Photo Grid -->
+      
+        <ul class="downloads">
+          <li><a href="https://www.facebook.com/kangwangtenor">Follow on <strong>Facebook</strong></a></li>
+          <li><a href="http://instagram.com/kangwang">Follow on <strong>Instagram</strong></a></li>
+          <li><a href="https://www.youtube.com/c/KangWangTenor">Watch on <strong>YouTube</strong></a></li>
+        </ul>
+
+        <hr>
+        
+        <h4>CONTACT</h4>
+        <p style="line-height: 1.5em;">
+          Matthew Horner<br/>
+          <em>General Management</em><br/>
+          <a href="mailto:mhorner@imgartists.com">mhorner@imgartists.com</a><br/>
+          +1 212 994 3540
+        </p>
+        <p style="line-height: 1em;">
+            7 W 54th St, New York <br/>
+            NY 10019 United States
+        </p>
+        
+          
+        <!-- {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %} -->
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      
+      </section>
+      <footer>
+        <p>Represented By<a href="https://imgartists.com/roster/kang-wang/" target="_blank"><br/><img src="./assets/img/imglogo.gif" alt="IMG Artists" style="width: 25%;"/></a></p>
+        <p><small>Copyright © 2022</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
