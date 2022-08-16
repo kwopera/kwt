@@ -1,6 +1,6 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-_“… a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence.”_
+_“This promising lyric tenor has now grown into possessing a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence.  His vocal technique seems faultless; absolutely rock solid throughout the range with dark lower notes, strength in his middle register and thrilling top notes.”_
 
 -- Limelight Magazine
 
