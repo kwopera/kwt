@@ -1,5 +1,9 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Wang’s voice was a revelation, his rich mellifluous tenor immediately grabbing my attention, so sure and confident, so true and expressive. His rendition of the Brindisi boldly captured the feelings he felt for Violetta, soon followed by his passionately sincere “Un di felice”, giving voice to the torture and delight he felt. I could imagine that the whole universe was indeed pulsing with his love ... In Act 2, Wang’s “De' miei bollenti spiriti”, pouring out his contentment, relaxed and at peace, conveyed the hopes of a young man in love."_
+
+-- Bachtrack
+
 _“This promising lyric tenor has now grown into possessing a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence.  His vocal technique seems faultless; absolutely rock solid throughout the range with dark lower notes, strength in his middle register and thrilling top notes.”_
 
 -- Limelight Magazine
