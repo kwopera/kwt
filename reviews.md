@@ -1,5 +1,14 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+
+“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “
+
+-- Australian Book Review
+
+"Tenor Kang Wang crested the waves of the Ingemisco with effortless power and projection but also displayed sensitivity when required. "
+
+-- The Age
+
 _"Wang’s voice was a revelation, his rich mellifluous tenor immediately grabbing my attention, so sure and confident, so true and expressive. His rendition of the Brindisi boldly captured the feelings he felt for Violetta, soon followed by his passionately sincere “Un di felice”, giving voice to the torture and delight he felt. I could imagine that the whole universe was indeed pulsing with his love ... In Act 2, Wang’s “De' miei bollenti spiriti”, pouring out his contentment, relaxed and at peace, conveyed the hopes of a young man in love."_
 
 -- Bachtrack
