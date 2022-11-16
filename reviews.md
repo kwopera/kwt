@@ -1,10 +1,10 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “
+_“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “_
 
 -- Australian Book Review
 
-"Tenor Kang Wang crested the waves of the Ingemisco with effortless power and projection but also displayed sensitivity when required. "
+_"Tenor Kang Wang crested the waves of the Ingemisco with effortless power and projection but also displayed sensitivity when required. "_
 
 -- The Age
 
