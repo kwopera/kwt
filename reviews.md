@@ -1,6 +1,5 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-
 _"His voice was intensely beautiful, and its scope was breathtakingly powerful in how far he could use it. In no sense is this voice a small one; there’s no strain to it and he can hold a note – and tail it off – magnificently. There was nothing linear about this singing, rather it was taken in a broad long arc; the care for detail was ear-catching. Singers don’t often become distractions for me in concert performances but Kang Wang did – and only in a very positive way."_
 
 -- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
