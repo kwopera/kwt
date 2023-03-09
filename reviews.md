@@ -3,7 +3,7 @@
 
 _"His voice was intensely beautiful, and its scope was breathtakingly powerful in how far he could use it. In no sense is this voice a small one; there’s no strain to it and he can hold a note – and tail it off – magnificently. There was nothing linear about this singing, rather it was taken in a broad long arc; the care for detail was ear-catching. Singers don’t often become distractions for me in concert performances but Kang Wang did – and only in a very positive way."_
 
--- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/">Opera Today</a>
+-- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
 
 
 _“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “_
