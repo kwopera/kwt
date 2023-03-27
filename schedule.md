@@ -1,4 +1,4 @@
-<h3 id="schedule"><a href="{{ "/schedule.html" | absolute_url }}#schedule">SEASON 2022/2023</a></h3>  
+<h3 id="schedule"><a href="{{ "/schedule.html" | absolute_url }}#schedule">SEASON 2023/2024</a></h3>  
 More performances being added as they are announced officially
 
 <ul class="schedule">
