@@ -1,7 +1,7 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
 
-_"Kang Wang lent his seemingly effortless tenor to an unforgettable 'Che gelida manina'"
+_"Kang Wang lent his seemingly effortless tenor to an unforgettable 'Che gelida manina'"_
 
 -- <a href ="https://mdtheatreguide.com/2023/05/opera-review-puccinis-la-boheme-presented-by-the-washington-national-opera-at-the-kennedy-center/" target="_blank"> MD Theatre Guide </a>
 
