@@ -1,6 +1,5 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-
 _"As spunky Alfredo, Kang Wang not only looks the part but is blessed with a powerfully expressive tenor voice. Moreover, he is immersed in the role’s vocal highs and dramatic lows. His stage presence is handsomely compelling."_
 -- <a href ="http://www.stagenoise.com/review/2024/la-traviata" target="_blank">Stage Noise</a>
 
