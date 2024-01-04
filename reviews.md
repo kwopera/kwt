@@ -10,13 +10,13 @@ _"His voice was intensely beautiful, and its scope was breathtakingly powerful i
 <br/>-- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
 
 _“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “_
-<br/>-- Australian Book Review
+<br/>-- <a href="https://www.australianbookreview.com.au/abr-arts/101-arts-update/9871-the-requiem-verdi-s-humane-agnostic-requiem-by-peter-rose">Australian Book Review</a>
 
 _"Tenor Kang Wang crested the waves of the Ingemisco with effortless power and projection but also displayed sensitivity when required. "_
 <br/>-- The Age
 
 _"Wang’s voice was a revelation, his rich mellifluous tenor immediately grabbing my attention, so sure and confident, so true and expressive. His rendition of the Brindisi boldly captured the feelings he felt for Violetta, soon followed by his passionately sincere “Un di felice”, giving voice to the torture and delight he felt. I could imagine that the whole universe was indeed pulsing with his love ... In Act 2, Wang’s “De' miei bollenti spiriti”, pouring out his contentment, relaxed and at peace, conveyed the hopes of a young man in love."_
-<br/>-- Bachtrack
+<br/>-- <a href="https://bachtrack.com/review-traviata-giles-dohnanyi-fagan-wang-roser-state-opera-south-australia-adelaide-august-2022">Bachtrack</a>
 
 _“This promising lyric tenor has now grown into possessing a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence. His vocal technique seems faultless; absolutely rock solid throughout the range with dark lower notes, strength in his middle register and thrilling top notes.”_
 <br/>-- Limelight Magazine
