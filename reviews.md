@@ -1,19 +1,19 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
 _"As spunky Alfredo, Kang Wang not only looks the part but is blessed with a powerfully expressive tenor voice. Moreover, he is immersed in the role’s vocal highs and dramatic lows. His stage presence is handsomely compelling."_
--- <a href ="http://www.stagenoise.com/review/2024/la-traviata" target="_blank">Stage Noise</a>
+<br/>-- <a href ="http://www.stagenoise.com/review/2024/la-traviata" target="_blank">Stage Noise</a>
 
 _"Kang Wang lent his seemingly effortless tenor to an unforgettable 'Che gelida manina'"_
--- <a href ="https://mdtheatreguide.com/2023/05/opera-review-puccinis-la-boheme-presented-by-the-washington-national-opera-at-the-kennedy-center/" target="_blank"> MD Theatre Guide </a>
+<br/>-- <a href ="https://mdtheatreguide.com/2023/05/opera-review-puccinis-la-boheme-presented-by-the-washington-national-opera-at-the-kennedy-center/" target="_blank"> MD Theatre Guide </a>
 
 _"His voice was intensely beautiful, and its scope was breathtakingly powerful in how far he could use it. In no sense is this voice a small one; there’s no strain to it and he can hold a note – and tail it off – magnificently. There was nothing linear about this singing, rather it was taken in a broad long arc; the care for detail was ear-catching. Singers don’t often become distractions for me in concert performances but Kang Wang did – and only in a very positive way."_
--- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
+<br/>-- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
 
 _“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “_
--- Australian Book Review
+<br/>-- Australian Book Review
 
 _"Tenor Kang Wang crested the waves of the Ingemisco with effortless power and projection but also displayed sensitivity when required. "_
--- The Age
+<br/>-- The Age
 
 _"Wang’s voice was a revelation, his rich mellifluous tenor immediately grabbing my attention, so sure and confident, so true and expressive. His rendition of the Brindisi boldly captured the feelings he felt for Violetta, soon followed by his passionately sincere “Un di felice”, giving voice to the torture and delight he felt. I could imagine that the whole universe was indeed pulsing with his love ... In Act 2, Wang’s “De' miei bollenti spiriti”, pouring out his contentment, relaxed and at peace, conveyed the hopes of a young man in love."_
 -- Bachtrack
