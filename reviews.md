@@ -1,6 +1,10 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
 
+\_"As spunky Alfredo, Kang Wang not only looks the part but is blessed with a powerfully expressive tenor voice. Moreover, he is immersed in the role’s vocal highs and dramatic lows. His stage presence is handsomely compelling."
+
+-- <a href ="http://www.stagenoise.com/review/2024/la-traviata" target="_blank">Stage Noise</a>
+
 _"Kang Wang lent his seemingly effortless tenor to an unforgettable 'Che gelida manina'"_
 
 -- <a href ="https://mdtheatreguide.com/2023/05/opera-review-puccinis-la-boheme-presented-by-the-washington-national-opera-at-the-kennedy-center/" target="_blank"> MD Theatre Guide </a>
@@ -8,7 +12,6 @@ _"Kang Wang lent his seemingly effortless tenor to an unforgettable 'Che gelida 
 _"His voice was intensely beautiful, and its scope was breathtakingly powerful in how far he could use it. In no sense is this voice a small one; there’s no strain to it and he can hold a note – and tail it off – magnificently. There was nothing linear about this singing, rather it was taken in a broad long arc; the care for detail was ear-catching. Singers don’t often become distractions for me in concert performances but Kang Wang did – and only in a very positive way."_
 
 -- <a href="https://operatoday.com/2023/01/tan-duns-buddha-passion-a-flawed-work-which-isnt-all-it-seems/" target="_blank">Opera Today</a>
-
 
 _“His singing in the Requiem was a revelation. ‘Ingemisco’ was utterly assured, culminating in a clarion sustained B flat. Wang was charismatically good in the ‘Hostias’ in ‘Offertorio’, with an elegant, sustained trill that few tenors would risk. What an elegant young tenor Wang is; “_
 
@@ -22,7 +25,7 @@ _"Wang’s voice was a revelation, his rich mellifluous tenor immediately grabbi
 
 -- Bachtrack
 
-_“This promising lyric tenor has now grown into possessing a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence.  His vocal technique seems faultless; absolutely rock solid throughout the range with dark lower notes, strength in his middle register and thrilling top notes.”_
+_“This promising lyric tenor has now grown into possessing a most beautiful voice that has been likened to liquid gold. It is a near-perfect instrument that is an absolute joy to listen to, matching a powerful and dramatic stage presence. His vocal technique seems faultless; absolutely rock solid throughout the range with dark lower notes, strength in his middle register and thrilling top notes.”_
 
 -- Limelight Magazine
 
@@ -60,7 +63,6 @@ Listening to him you feel certain that his talent and tone are very special, whi
 
 -- Behind the Arras
 
-
 _“Young Australian-Chinese tenor Kang Wang was a finalist in the Cardiff Singer of the World last year. His range is delivered smoothly throughout, especially across the break, and there is an admirable warmth of tone in his quieter passages as the love-sick Alfredo. This is a voice which will be welcome in the world’s great opera houses for many years to come.”_
 
 -- Express and Star
@@ -68,7 +70,6 @@ _“Young Australian-Chinese tenor Kang Wang was a finalist in the Cardiff Singe
 _"Kang Wang, another newcomer to the company, accomplished what tenors in the role of Don Ottavio rarely do – he gave the audience a believable understanding of why he was the grand Donna Anna’s fiancé. Usually the character comes across as a bit of a milksop, trailing in the formidable lady’s wake for no obvious reason, but he sang and acted the part in a manner that conveyed a strength that frequently is lost. In a spot or two his phrasing was not of the smoothest, but seeing this role in the hands of a singer who could make something of the part was such a refreshing change that it didn’t much matter."_
 
 -- onStage Pittsburgh
-
 
 _"The entire cast is worthy of kudos, but the leading roles are played by the best in opera today. Kang Wang who dazzled Austin audiences in LA BOHEMÈ last season returns to play the playboy Duke with his gorgeous tenor and depth of character. He takes the iconic "La donna è mobile" from frivolous to haunting in the final act."_
 
