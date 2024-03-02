@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"The tenor Kang Wang’s voice was particularly strong at the higher reaches, focused, vivid, powerful and sustained to the very end of the opera. He united this to a fine-drawn, naturalistic portrait of a man constantly frustrated in his attempts to find the right woman. In his ardent love song to Olympia, the intensity of his voice seemed to increase with every ascending phrase. He could lighten his voice and achieve a restless urgency in his duet with Antonia. In the scene with the courtesan Giulietta, he sang with a sustained legato in his love duet with the flinty-eyed object of his affection. "_
+<br/>-- <a href="https://southfloridaclassicalreview.com/2024/03/palm-beach-operas-superb-cast-serves-up-an-aptly-harrowing-hoffmann/" target="_blank">South Florida Classical Review</a>
+
 _"As spunky Alfredo, Kang Wang not only looks the part but is blessed with a powerfully expressive tenor voice. Moreover, he is immersed in the role’s vocal highs and dramatic lows. His stage presence is handsomely compelling."_
 <br/>-- <a href ="http://www.stagenoise.com/review/2024/la-traviata" target="_blank">Stage Noise</a>
 
