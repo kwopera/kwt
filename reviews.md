@@ -1,5 +1,9 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+-"Tenor Kang Wang gave a powerful performance in the role of Hoffmann. He had immaculate French diction, and sang the difficult aria, “Il était une fois à la cour d’Eisenach” with comedic emphasis, leading the chorus on the German pronunciation of the ach-laut on the word, “Eisenach.” In many performances of this aria, the tenor tends to ignore the emphasis and just sing the aria, relying on the chorus to interpret the pronunciation. Wang’s performance of this aria was very refreshing and enhanced the drama, drawing attention to the fact that this French-language opera is making fun of German pronunciation.
+Wang took care to communicate every word of the text beautifully in a wonderfully even tenor voice. He is an amazing actor, seeming to know intuitively if the energy dragged in a scene of extended bel canto, and single-handedly drummed up a chorus..."_
+<br/>-- <a href="https://www.palmbeachdailynews.com/story/entertainment/music/2024/03/02/first-rate-singing-makes-pb-operas-tales-of-hoffmann-special/72820777007/" target="_blank">Palm Beach Daily News</a>
+
 _"The tenor Kang Wang’s voice was particularly strong at the higher reaches, focused, vivid, powerful and sustained to the very end of the opera. He united this to a fine-drawn, naturalistic portrait of a man constantly frustrated in his attempts to find the right woman. In his ardent love song to Olympia, the intensity of his voice seemed to increase with every ascending phrase. He could lighten his voice and achieve a restless urgency in his duet with Antonia. In the scene with the courtesan Giulietta, he sang with a sustained legato in his love duet with the flinty-eyed object of his affection. "_
 <br/>-- <a href="https://southfloridaclassicalreview.com/2024/03/palm-beach-operas-superb-cast-serves-up-an-aptly-harrowing-hoffmann/" target="_blank">South Florida Classical Review</a>
 
