@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Verdi: Macbeth"
-when: "2024.11.13 - 2024.11.23"
-where: "Washington D.C., USA"
-who: "Washington National Opera"
-link: "https://www.kennedy-center.org/wno/home/2024-2025/macbeth/"
+title: "Puccini: Madama Butterfly"
+when: "2025.01.24 - 2025.02.16"
+where: "Toronto, Canada"
+who: "Canadian Opera Company"
+link: "https://www.coc.ca/tickets/2425-season/madama-butterfly"
 ---
