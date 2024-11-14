@@ -1,5 +1,11 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"...The night’s biggest vocal surprise was tenor Kang Wang as Macduff, whose “Ah, la paterna mano” in the fourth act earned one of the night’s longest ovations."_
+<br/>-- <a href="https://www.washingtonpost.com/entertainment/music/2024/11/14/dark-powers-guide-dagger-sharp-macbeth-washington-national-opera/" target="_blank">The Washington Post</a>
+
+_"Alfredo, quant à lui, est servi par le ténor Kang Wang, au timbre chaud et la technique impeccable lui assurant une grande agilité dans les sauts les plus acrobatiques – le contre-ut sort facilement, sans force mais avec puissance. (Alfredo, for his part, is served by the tenor Kang Wang, with a warm timbre and impeccable technique ensuring great agility in the most acrobatic jumps – the high C comes out easily, without force but with power.)"
+<br/>-- <a href="https://olyrix.com/articles/production/7758/la-traviata-opera-verdi-piave-dumas-sagripanti-amato-frigerio-squarciapino-baldiserri-rebeka-leonardi-ulloa-wang-salsi-leone-ribis-bianco-mazzucchelli-crescenzo-scarico-lignell-teatro-san-carlo-naples-italie-20-juillet-2024-article-critique-compte-rendu" target="_blank">Olyrix</a>
+
 _"Tenor Kang Wang gave a powerful performance in the role of Hoffmann. He had immaculate French diction, and sang the difficult aria, “Il était une fois à la cour d’Eisenach” with comedic emphasis, leading the chorus on the German pronunciation of the ach-laut on the word, “Eisenach.” ... Wang took care to communicate every word of the text beautifully in a wonderfully even tenor voice. He is an amazing actor, seeming to know intuitively if the energy dragged in a scene of extended bel canto, and single-handedly drummed up a chorus..."_
 <br/>-- <a href="https://www.palmbeachdailynews.com/story/entertainment/music/2024/03/02/first-rate-singing-makes-pb-operas-tales-of-hoffmann-special/72820777007/" target="_blank">Palm Beach Daily News</a>
 
