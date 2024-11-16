@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"...but no way that Wayne or Damon could deliver Macduff’s aria of pain as drop dead beautifully as tenor Kang Wang... tenor Kang Wang, who as General Macduff, sang the showstopper aria of the evening, ridden with pain over the murder of his wife and family by Macbeth’s henchmen. "_
+<br/>-- <a href="https://operagene.com/new-blog/2024/11/15/washingto-national-operas-macbeth-a-highly-entertaining-triumph-of-good-over-evil" target="_blank">OperaGene</a>
+
 _"...The night’s biggest vocal surprise was tenor Kang Wang as Macduff, whose “Ah, la paterna mano” in the fourth act earned one of the night’s longest ovations."_
 <br/>-- <a href="https://www.washingtonpost.com/entertainment/music/2024/11/14/dark-powers-guide-dagger-sharp-macbeth-washington-national-opera/" target="_blank">The Washington Post</a>
 
