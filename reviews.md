@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"The evening’s takeaway for me was the outstanding tenor Kang Wang. Since I no longer go to every production at the Kennedy Center, I’d missed his previous outings here as Ferrando in “Cosi fan tutte” in 2022 and Rodolfo in “La Bohème” in 2023, so I was entirely unprepared for the shining, heroic, easy, ringing sound he showed as a fabulous Macduff; I was so excited I spent the next morning perusing his YouTube videos, which demonstrated that the performance was no fluke and he really is that good. It's a treat, as I age into the time-honored but annoying role of Opera Curmudgeon, to hear a young singer who jolts me out of my hand-wringing about The Decline of Singing and reawakens the excitement I’ve always felt about this art form. "_
+<br/>-- <a href="https://annemidgette.com/blog/f/something-appealing-something-appalling-two" target="_blank">Anne Midgette</a>
+
 _"Kang Wang likewise delivers a standout performance in the role of Macduff. Wang’s dulcet tenor is as commanding as it is fierce, with the power to rally together not just Macbeth’s enemies but the audience as well. “Ah! la paterna mano,” Macduff’s mournful aria asking his murdered children to forgive him, deserves a performance of its own."_
 <br/>-- <a href="https://dctheaterarts.org/2024/11/15/wno-brings-verdis-macbeth-to-life-to-sensational-effect/" target="_blank">DC Theater Arts</a>
 
