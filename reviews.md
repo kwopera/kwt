@@ -1,5 +1,9 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+
+_"Kang Wang likewise delivers a standout performance in the role of Macduff. Wang’s dulcet tenor is as commanding as it is fierce, with the power to rally together not just Macbeth’s enemies but the audience as well. “Ah! la paterna mano,” Macduff’s mournful aria asking his murdered children to forgive him, deserves a performance of its own."_
+<br/>-- <a href="https://dctheaterarts.org/2024/11/15/wno-brings-verdis-macbeth-to-life-to-sensational-effect/" target="_blank">DC Theater Arts</a>
+
 _"...but no way that Wayne or Damon could deliver Macduff’s aria of pain as drop dead beautifully as tenor Kang Wang... tenor Kang Wang, who as General Macduff, sang the showstopper aria of the evening, ridden with pain over the murder of his wife and family by Macbeth’s henchmen. "_
 <br/>-- <a href="https://operagene.com/new-blog/2024/11/15/washingto-national-operas-macbeth-a-highly-entertaining-triumph-of-good-over-evil" target="_blank">OperaGene</a>
 
