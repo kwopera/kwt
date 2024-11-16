@@ -1,6 +1,5 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-
 _"Kang Wang likewise delivers a standout performance in the role of Macduff. Wang’s dulcet tenor is as commanding as it is fierce, with the power to rally together not just Macbeth’s enemies but the audience as well. “Ah! la paterna mano,” Macduff’s mournful aria asking his murdered children to forgive him, deserves a performance of its own."_
 <br/>-- <a href="https://dctheaterarts.org/2024/11/15/wno-brings-verdis-macbeth-to-life-to-sensational-effect/" target="_blank">DC Theater Arts</a>
 
