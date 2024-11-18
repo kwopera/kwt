@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Tenor Kang Wang is a sensation in acting and operatic vocals in his role as the wronged Macduff. Mr. Wang’s aria (“Ah, the paternal hand”) as he laments the death of his wife and children was received with thunderous applause the night I attended."_
+<br/>-- <a href="https://www.broadwayworld.com/washington-dc/article/Review-MACBETH-at-Kennedy-Center-20241118" target="_blank">Broadway World</a>
+
 _"The evening’s takeaway for me was the outstanding tenor Kang Wang. Since I no longer go to every production at the Kennedy Center, I’d missed his previous outings here as Ferrando in “Cosi fan tutte” in 2022 and Rodolfo in “La Bohème” in 2023, so I was entirely unprepared for the shining, heroic, easy, ringing sound he showed as a fabulous Macduff; I was so excited I spent the next morning perusing his YouTube videos, which demonstrated that the performance was no fluke and he really is that good. It's a treat, as I age into the time-honored but annoying role of Opera Curmudgeon, to hear a young singer who jolts me out of my hand-wringing about The Decline of Singing and reawakens the excitement I’ve always felt about this art form. "_
 <br/>-- <a href="https://annemidgette.com/blog/f/something-appealing-something-appalling-two" target="_blank">Anne Midgette</a>
 
