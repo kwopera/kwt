@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"When Kang Wang as Macduff takes center stage for his aria in Act Four, the audience collectively holds its breath. His tenor voice carries such raw emotion that when he finishes, the theater erupts in an explosion of approval that feels less like typical opera house appreciation and more like a primal recognition of shared humanity."_
+<br/>-- <a href="https://jdcampolargo.medium.com/the-ghost-lights-shadow-an-evening-with-macbeth-at-the-kennedy-center-882e515ff2fb" target="_blank">Medium</a>
+
 _"Tenor Kang Wang is a sensation in acting and operatic vocals in his role as the wronged Macduff. Mr. Wang’s aria (“Ah, the paternal hand”) as he laments the death of his wife and children was received with thunderous applause the night I attended."_
 <br/>-- <a href="https://www.broadwayworld.com/washington-dc/article/Review-MACBETH-at-Kennedy-Center-20241118" target="_blank">Broadway World</a>
 
