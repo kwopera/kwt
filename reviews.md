@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"And the evening’s biggest internal ovation went to tenor Kang Wang for his unaggressively clarion delivery of Macduff’s “Ah, la paterna mano.” My, how that voice has grown since 2016, when I first heard him at Juilliard as Bellini’s Elvino! "_
+<br/>-- <a href="https://operacanada.ca/washington-national-opera-macbeth-taut-and-telling-stage-pictures/" target="_blank">Opera Canada</a>
+
 _"When Kang Wang as Macduff takes center stage for his aria in Act Four, the audience collectively holds its breath. His tenor voice carries such raw emotion that when he finishes, the theater erupts in an explosion of approval that feels less like typical opera house appreciation and more like a primal recognition of shared humanity."_
 <br/>-- <a href="https://jdcampolargo.medium.com/the-ghost-lights-shadow-an-evening-with-macbeth-at-the-kennedy-center-882e515ff2fb" target="_blank">Medium</a>
 
