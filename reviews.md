@@ -1,6 +1,6 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
-_"Macduff, brought to life by Kang Wang, gave a wonderful performance; in fact, his sole triumphant aria left the audience cheering, and they gave him applause longer than any other performer."
+_"Macduff, brought to life by Kang Wang, gave a wonderful performance; in fact, his sole triumphant aria left the audience cheering, and they gave him applause longer than any other performer."_
 <br/>-- <a href="https://cuatower.com/2024/12/verdis-macbeth-delivers-grim-thrills-at-washington-national-opera/" target="_blank">The Tower</a>
 
 _"And the evening’s biggest internal ovation went to tenor Kang Wang for his unaggressively clarion delivery of Macduff’s “Ah, la paterna mano.” My, how that voice has grown since 2016, when I first heard him at Juilliard as Bellini’s Elvino! "_
