@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Australian Chinese tenor Kang Wang, in town for Pinkerton in Madama Butterfly, sang Alfredo’s Act Two aria from La traviata with beautiful, clarion tone and a great top as well as a lovely diminuendo. His next piece was “Nessun dorma,” practically an obligatory choice in gala concert programming these days. His gorgeous spinto tone with plenty of squillo is ideal in this aria. The audience showed its appreciation with huge ovations. "_
+<br/>-- <a href="https://www.ludwig-van.com/toronto/2025/01/03/scrutiny-bravissimo-salute-vienna-ring-2025-grand-fashion/" target="_blank">Ludwig van Toronto</a>
+
 _"Macduff, brought to life by Kang Wang, gave a wonderful performance; in fact, his sole triumphant aria left the audience cheering, and they gave him applause longer than any other performer."_
 <br/>-- <a href="https://cuatower.com/2024/12/verdis-macbeth-delivers-grim-thrills-at-washington-national-opera/" target="_blank">The Tower</a>
 
