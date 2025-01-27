@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Kang Wang, strikingly handsome in demeanour and voice...brought much sincerity and affection to his portrayal of Pinkerton"_
+<br/>-- <a href="https://bachtrack.com/review-madama-butterfly-nakamura-kang-wang-canadian-opera-company-toronto-january-2025" target="_blank">Bachtrack</a>
+
 _"Australian Chinese tenor Kang Wang, in town for Pinkerton in Madama Butterfly, sang Alfredo’s Act Two aria from La traviata with beautiful, clarion tone and a great top as well as a lovely diminuendo. His next piece was “Nessun dorma,” practically an obligatory choice in gala concert programming these days. His gorgeous spinto tone with plenty of squillo is ideal in this aria. The audience showed its appreciation with huge ovations. "_
 <br/>-- <a href="https://www.ludwig-van.com/toronto/2025/01/03/scrutiny-bravissimo-salute-vienna-ring-2025-grand-fashion/" target="_blank">Ludwig van Toronto</a>
 
