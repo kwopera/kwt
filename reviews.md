@@ -1,5 +1,11 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Australian-Chinese tenor Kang Wang as Pinkerton delivers a powerful performance that elicits the nuanced facets of Pinkerton. There is a richness and clarity to his singing that demonstrates Pinkerton’s bravado and confidence. And yet, Wang reveals a tenderness and compassionate side of Pinkerton when he consoles Butterfly after she renounces her religion. Wang’s Pinkerton is one of the most compelling aspects of this production. With his exceptional singing and acting, he is a talent I’m looking forward to seeing again on stage."_
+<br/>-- <a href="https://www.ludwig-van.com/toronto/2025/01/27/scrutiny-canadian-opera-company-delivers-emotionally-resonant-madama-butterfly/" target="_blank">Luwig van Toronto</a>
+
+_"Australian Chinese tenor Kang Wang, returning to the COC after his marvelous Rodolfo in La bohème last season. As Pinkerton, his big ringing tenor and brilliant top register was a real pleasure, and the couple had great chemistry in their love scene. Pinkerton is an anti-hero, but Wang’s gorgeous vocalism almost makes one forget that the character is such a cad."_
+<br/>-- <a href="https://operacanada.ca/canadian-opera-company-madama-butterfly-an-unalloyed-triumph/" target="_blank">Opera Canada</a>
+
 _"Kang Wang, strikingly handsome in demeanour and voice...brought much sincerity and affection to his portrayal of Pinkerton"_
 <br/>-- <a href="https://bachtrack.com/review-madama-butterfly-nakamura-kang-wang-canadian-opera-company-toronto-january-2025" target="_blank">Bachtrack</a>
 
