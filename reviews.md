@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Skilled tenor Kang Wang is a particularly dreamy Pinkerton in an intriguing piece of casting that unlocks new intellectual ideas about the story’s commentary on race and identity"_
+<br/>-- <a href="https://www.myentertainmentworld.ca/2025/01/coc-madama-butterfly/" target="_blank">My Entertainment World</a>
+
 _"With his good looks, ringing voice and phenomenal lung-power Wang should go far. One would never know that this was Wang’s role debut as Pinkerton since has the full measure of role, smirking at quaint Japanese customs but clearly enraptured by Butterfly’s beauty. Pinkerton may be the villain of the opera, but Wang almost makes us forget this when he sings “Dovunque al mondo” or “Addio, fiorito asil” with such power and clarity of tone."_
 <br/>-- <a href="https://www.stage-door.com/3/Reviews/Entries/2025/1/madama-butterfly.html" target="_blank">Stage Door</a>
 
