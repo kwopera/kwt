@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Kang Wang is an excellent choice for Roberto. The Australian-Chinese tenor’s voice has truly Italian qualities. This is great vocal artistry, intense in expression, vocally dedicated to bel canto."_
+<br/>-- <a href="https://www.pizzicato.lu/herausragende-einspielung-von-puccinis-le-villi/" target="_blank">Pizzicato</a>
+
 _"Skilled tenor Kang Wang is a particularly dreamy Pinkerton in an intriguing piece of casting that unlocks new intellectual ideas about the story’s commentary on race and identity"_
 <br/>-- <a href="https://www.myentertainmentworld.ca/2025/01/coc-madama-butterfly/" target="_blank">My Entertainment World</a>
 
