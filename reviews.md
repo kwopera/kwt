@@ -1,5 +1,11 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"A brilliant young tenor gets a role worthy of his voice"_
+<br/>-- <a href="https://www.washingtonpost.com/entertainment/music/2025/04/14/washington-concert-opera-kang-yang-luisa-miller/" target="_blank">The Washington Post</a>
+
+_"In his dramatic scena that ended Act II, Wang purred with velvety legato in the cavatina “Quando le sere al placido.” In the concluding cabaletta of despair, “L’ara o l’avello apprestami,” he drew the evening’s loudest ovations with room-filling volume on the piece’s B-flat climaxes."_
+<br/>-- <a href="https://washingtonclassicalreview.com/2025/04/14/woodbury-and-wang-shine-in-concert-operas-affecting-luisa-miller/" target="_blank">Washington Classic Review</a>
+
 _"Kang Wang is an excellent choice for Roberto. The Australian-Chinese tenor’s voice has truly Italian qualities. This is great vocal artistry, intense in expression, vocally dedicated to bel canto."_
 <br/>-- <a href="https://www.pizzicato.lu/herausragende-einspielung-von-puccinis-le-villi/" target="_blank">Pizzicato</a>
 
