@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Wang ha mostrato una vocalità da tenore lirico belcantista perfetta per la parte. L’emissione era sempre in maschera, con acuti squillanti e un fraseggio elegante. “Quando le sere al placido” è stata interpretata con la freschezza e il trasporto dei giovani amanti traditi e la ricchezza degli armonici con la qualità della grana vocale hanno scatenato l’applauso più acceso della serata."_
+<br/>-- <a href="https://www.operaclick.com/recensioni/teatrale/washington-lisner-auditorium-luisa-miller" target="_blank">OperaClick</a>
+
 _"A brilliant young tenor gets a role worthy of his voice"_
 <br/>-- <a href="https://www.washingtonpost.com/entertainment/music/2025/04/14/washington-concert-opera-kang-yang-luisa-miller/" target="_blank">The Washington Post</a>
 
