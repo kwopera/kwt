@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Tenor Kang Wang played Rodolfo magnificently, singing powerfully and with full-throttled emotion as he feels betrayed by Luisa, having read the false letter. His performance of “Quando le sere al placido,” the show’s most celebrated aria, was stellar. "_
+<br/>-- <a href="https://mdtheatreguide.com/2025/04/opera-review-verdis-luisa-miller-by-washington-concert-opera/" target="_blank">Maryland Theatre Guide</a>
+
 _"Wang ha mostrato una vocalità da tenore lirico belcantista perfetta per la parte. L’emissione era sempre in maschera, con acuti squillanti e un fraseggio elegante. “Quando le sere al placido” è stata interpretata con la freschezza e il trasporto dei giovani amanti traditi e la ricchezza degli armonici con la qualità della grana vocale hanno scatenato l’applauso più acceso della serata."_
 <br/>-- <a href="https://www.operaclick.com/recensioni/teatrale/washington-lisner-auditorium-luisa-miller" target="_blank">OperaClick</a>
 
