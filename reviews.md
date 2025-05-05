@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Glanzpunkte in exzellent besetzten Solisten hatten. Allen voran beeindruckt der scheinbar ermüdungsfreie, geradlinig gestaltende Tenor Kang Wang als Roméo. Er ist ein junger, unkomplizierter Mann, charmant und gefühlvoll, einer zum sofortigen Verlieben.(Jindra calmly led the way to great, thrilling heights, culminating in excellently cast soloists. Above all, the seemingly tireless, straightforward tenor Kang Wang impresses as Roméo. He is a young, uncomplicated man, charming and sensitive, the kind you'll instantly fall in love with.)"_
+<br/>-- <a href="https://www.saechsische.de/kultur/regional/premiere-von-romeo-et-juliette-in-der-semperoper-dresden-nur-musikalisch-spitzenklasse-MFXNEF5T65DSLOQP5ZWXFCCH6Q.html" target="_blank">Sächsische Zeitung</a>
+
 _"Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen- (und Ohren-) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye(and ear) level.)"_
 <br/>-- <a href="https://www.oper-magazin.de/" target="_blank">Oper! Magazin</a>
 
