@@ -1,5 +1,8 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+_"Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."_
+<br/>-- <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="_blank">KlasikaPlus</a>
+
 _"Ja, der Romeo des chinesisch-australischen Sängers Kang Wang, er ist die eigentliche Sensation dieser Dresdner Opernproduktion: jung, gutaussehend und damit absolut glaubwürdig zum Verlieben und das mit einer fülligen, immer freien, nie engen Stimmgebung seines herrlichen Tenors. -- (Yes, the Romeo of the Chinese-Australian singer Kang Wang, he is the real sensation of this Dresden opera production: young, handsome and therefore absolutely believable enough to fall in love with, and all this with a rich, always free, never tight voice from his magnificent tenor.)"_
 <br/>-- <a href="https://www.pizzicato.lu/charles-gounods-romeo-et-juliette-an-der-semperoper-dresden/" target="_blank">Pizzicato</a>
 
