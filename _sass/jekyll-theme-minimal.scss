@@ -5,7 +5,7 @@ body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
+  color: #3a3c40;
   font-weight:400;
 }
 
@@ -137,9 +137,9 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
+  //background: #f4f4f4;
+  //border-radius:5px;
+  //border:1px solid #e0e0e0;
   width:270px;
 }
 
@@ -332,7 +332,7 @@ ul.schedule {
   transition: background 0.6s ease-out;
 }
 .schedule a{
-  color: #727272;
+  color: #3a3c40;
 }
 
 .schedule h4 {
