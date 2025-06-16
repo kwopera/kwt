@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**"Strikingly handsome in demeanour and voice"** and hailed for his **"radiant, distinctively timbred tenor"** that is **"boundless in its metallic high notes"**, with **"delicious ping"**, and **"sonorous pianissimos"**, Australian-Chinese tenor **Kang Wang** is quickly becoming one of the most sought-after tenors in the opera world. He is a former member of the **Lindemann Young Artist Development Program** of the Metropolitan Opera and a finalist in the 2017 **Cardiff Singer of the World competition**.
+**"Strikingly handsome in demeanour and voice"** and hailed for his **"radiant, distinctively timbred tenor"** that is **"boundless in its metallic high notes"**, with **"delicious ping"**, **"velvety legato"** and **"sonorous pianissimos"**, Australian-Chinese tenor **Kang Wang** is quickly becoming one of the most sought-after tenors in the opera world. He is a former member of the **Lindemann Young Artist Development Program** of the Metropolitan Opera and a finalist in the 2017 **Cardiff Singer of the World competition**.
 
 The 2024-25 season sees Mr. Wang appears as Roberto in **Le Villi** with the Munich Rundfunkorchester, Macduff in **Macbeth** at the Washington National Opera, Pinkerton in **Madama Butterfly** at the Canadian Opera Company, Rodolfo in **Luisa Miller** at the Washington Concert Opera, Roméo in **Roméo et Juliette** and Rodolfo in **La bohème** at the Semperoper Dresden and Alfredo in **La traviata** with the Seiji Ozawa Music Academy and the Tiroler Festival of Erl in Austria.
 
