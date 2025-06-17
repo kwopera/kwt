@@ -4,7 +4,7 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Times", Helvetica, Arial, sans-serif;
   color: #3a3c40;
   font-weight:400;
 }
@@ -40,8 +40,8 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
-  text-decoration:none;
+  color: blue;
+  //text-decoration:none;
 }
 
 h1 a {
@@ -328,15 +328,17 @@ ul.schedule {
 }
 
 .schedule li:hover {
-  background: lightblue;
+  background: lightgrey;
   transition: background 0.6s ease-out;
 }
 .schedule a{
   color: #3a3c40;
+  text-decoration: none;
 }
 
 .schedule h4 {
-  color: #267CB9;
+  color: blue;
+  text-decoration: underline;
 }
 
 .schedule li h3{
