@@ -156,4 +156,4 @@ Broadway World : "The entire cast is worthy of kudos, but the leading roles are 
 
 </div>
 
-<button onclick="myFunction()" id="myBtn">More reviews</button>
+<button onclick="myFunction()" id="myBtn">More reviews >></button>
