@@ -11,12 +11,11 @@
 
 <a href="https://www.saechsische.de/kultur/regional/premiere-von-romeo-et-juliette-in-der-semperoper-dresden-nur-musikalisch-spitzenklasse-MFXNEF5T65DSLOQP5ZWXFCCH6Q.html" target="blank">Sächsische Zeitung</a> : "Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Glanzpunkte in exzellent besetzten Solisten hatten. Allen voran beeindruckt der scheinbar ermüdungsfreie, geradlinig gestaltende Tenor Kang Wang als Roméo. Er ist ein junger, unkomplizierter Mann, charmant und gefühlvoll, einer zum sofortigen Verlieben. (Jindra calmly led the way to great, thrilling heights, culminating in excellently cast soloists. Above all, the seemingly tireless, straightforward tenor Kang Wang impresses as Roméo. He is a young, uncomplicated man, charming and sensitive, the kind you'll instantly fall in love with.)"
 <br/>
-
+<button onclick="myFunction()" id="myBtn">Read more</button>
 <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a> : "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen (und Ohren) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye (and ear) level.)"
 <br/>
-<input type="checkbox" class="read-more-state" id="reviews"/>
 
-<div class="read-more">
+<span class="more">
 "Der Tenor Kang Wang lässt als Roméo im Strahl und in der kräftigen, aber lyrischen Vokalkonsistenz sogar an Neil Shicoff denken. (Tenor Kang Wang's radiance as Roméo, combined with his powerful yet lyrical vocal consistency, even brings to mind Neil Shicoff. )"
 <br/>-- <a href="https://www.concerti.de/oper/opern-kritiken/semperoper-dresden-romeo-et-juliette-3-5-2025/" target="blank">Concerti</a>
 
@@ -154,5 +153,21 @@ _“Young Australian-Chinese tenor Kang Wang was a finalist in the Cardiff Singe
 "The entire cast is worthy of kudos, but the leading roles are played by the best in opera today. Kang Wang who dazzled Austin audiences in LA BOHEMÈ last season returns to play the playboy Duke with his gorgeous tenor and depth of character. He takes the iconic "La donna è mobile" from frivolous to haunting in the final act."
 <br/>-- Broadway World
 
-</div>
-<label for="reviews" class="read-more-trigger"></label>
+</span>
+<script>
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+if (dots.style.display === "none") {
+dots.style.display = "inline";
+btnText.innerHTML = "Read more";
+moreText.style.display = "none";
+} else {
+dots.style.display = "none";
+btnText.innerHTML = "Read less";
+moreText.style.display = "inline";
+}
+}
+</script>
