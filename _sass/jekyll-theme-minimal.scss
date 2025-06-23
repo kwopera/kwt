@@ -409,6 +409,11 @@ div.photogrid {
 #more {display:none;}
 
 #myBtn {
- font: 17px/1.5 "Times", "Times New Roman", Helvetica, Arial, sans-serif;
- color:blue; 
+  font: 17px/1.5 "Times", "Times New Roman", Helvetica, Arial, sans-serif;
+  color:blue; 
+  border: none;
+  background: none;
+  text-decoration: underline;
+  padding: 0;
+  margin-top: 1em;
 }
