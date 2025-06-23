@@ -11,7 +11,8 @@
 
 <a href="https://www.saechsische.de/kultur/regional/premiere-von-romeo-et-juliette-in-der-semperoper-dresden-nur-musikalisch-spitzenklasse-MFXNEF5T65DSLOQP5ZWXFCCH6Q.html" target="blank">Sächsische Zeitung</a> : "Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Glanzpunkte in exzellent besetzten Solisten hatten. Allen voran beeindruckt der scheinbar ermüdungsfreie, geradlinig gestaltende Tenor Kang Wang als Roméo. Er ist ein junger, unkomplizierter Mann, charmant und gefühlvoll, einer zum sofortigen Verlieben. (Jindra calmly led the way to great, thrilling heights, culminating in excellently cast soloists. Above all, the seemingly tireless, straightforward tenor Kang Wang impresses as Roméo. He is a young, uncomplicated man, charming and sensitive, the kind you'll instantly fall in love with.)"
 <br/>
-<button onclick="myFunction()" id="myBtn">Read more</button>
+<span id="dots">...</span>
+<button onclick="myFunction()" id="myBtn">More reviews</button>
 
 <div id="more">
 <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a> : "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen (und Ohren) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye (and ear) level.)"
@@ -155,20 +156,3 @@ _“Young Australian-Chinese tenor Kang Wang was a finalist in the Cardiff Singe
 <br/>-- Broadway World
 
 </div>
-<script>
-function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
-
-if (dots.style.display === "none") {
-dots.style.display = "inline";
-btnText.innerHTML = "Read more";
-moreText.style.display = "none";
-} else {
-dots.style.display = "none";
-btnText.innerHTML = "Read less";
-moreText.style.display = "inline";
-}
-}
-</script>
