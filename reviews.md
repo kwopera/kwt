@@ -1,30 +1,32 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
-<br/>
+<div>
 <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="blank">KlasikaPlus</a> : "Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."
-<br/>
+<br/><br/>
 
 <a href="https://www.pizzicato.lu/charles-gounods-romeo-et-juliette-an-der-semperoper-dresden/" target="blank">Pizzicato</a> : "Ja, der Romeo des chinesisch-australischen Sängers Kang Wang, er ist die eigentliche Sensation dieser Dresdner Opernproduktion: jung, gutaussehend und damit absolut glaubwürdig zum Verlieben und das mit einer fülligen, immer freien, nie engen Stimmgebung seines herrlichen Tenors. (Yes, the Romeo of the Chinese-Australian singer Kang Wang, he is the real sensation of this Dresden opera production: young, handsome and therefore absolutely believable enough to fall in love with, and all this with a rich, always free, never tight voice from his magnificent tenor.)"
-<br/>
+<br/><br/>
 
 <a href="https://operalounge.de/features/die-besondere-oper/die-besondere-oper" target="blank">Operalounge</a> : "Einen Tenor von enormer Pracht ließ der australisch-chinesische Tenor Kang Wang hören, der als Roméo an der Semperoper debütierte. Die reich timbrierte Stimme schien ohne Grenzen in der metallischen Höhe, ohne Limit in der Durchschlagskraft. (Australian-Chinese tenor Kang Wang, who made his debut as Roméo at the Semperoper, delivered a tenor of tremendous splendor. His richly timbred voice seemed boundless in its metallic high notes, without limit in its penetrating power.)"
-<br/>
+<br/><br/>
 
 <a href="https://www.saechsische.de/kultur/regional/premiere-von-romeo-et-juliette-in-der-semperoper-dresden-nur-musikalisch-spitzenklasse-MFXNEF5T65DSLOQP5ZWXFCCH6Q.html" target="blank">Sächsische Zeitung</a> : "Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Glanzpunkte in exzellent besetzten Solisten hatten. Allen voran beeindruckt der scheinbar ermüdungsfreie, geradlinig gestaltende Tenor Kang Wang als Roméo. Er ist ein junger, unkomplizierter Mann, charmant und gefühlvoll, einer zum sofortigen Verlieben. (Jindra calmly led the way to great, thrilling heights, culminating in excellently cast soloists. Above all, the seemingly tireless, straightforward tenor Kang Wang impresses as Roméo. He is a young, uncomplicated man, charming and sensitive, the kind you'll instantly fall in love with.)"
-<br/>
+<br/><br/>
+
+</div>
 <span id="dots">...</span>
 
 <div id="more">
 <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a> : "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen (und Ohren) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye (and ear) level.)"
-<br/>
+<br/><br/>
 
 <a href="https://www.concerti.de/oper/opern-kritiken/semperoper-dresden-romeo-et-juliette-3-5-2025/" target="blank">Concerti</a> : "Der Tenor Kang Wang lässt als Roméo im Strahl und in der kräftigen, aber lyrischen Vokalkonsistenz sogar an Neil Shicoff denken. (Tenor Kang Wang's radiance as Roméo, combined with his powerful yet lyrical vocal consistency, even brings to mind Neil Shicoff. )"
-<br/>
+<br/><br/>
 
 <a href="https://www.ioco.de/dresden-semperoper-romeo-et-juliette-c-gounod-ioco/" target="blank">IOCO - Kultur im Netz</a> : "Als Roméo konnte der Hausdebütant Kang Wang einen strahlenden, apart timbrierten Tenor für die technisch anspruchsvolle Partie mit einer geschmackvollen Gesangslinie auf die Szene bringen. Wang entwickelte seinen Gesang musikalisch souverän geführt, stilvoll und ohne Kitsch. Seine Stimme passte in den Duetten sehr harmonisch zu der Takalas und seine Arien waren von bezwingender Eindringlichkeit. Wie Wang die zarten Töne auf das Fundament des Orchesters auflegte, war beeindruckend. In der Höhe schien seine Stimme keine Grenzen zu kennen, blieb stets geschmeidig. Alles klang elegant und ohne Forcierung mit großem Atem gesungen. In den Ensembles brillierte er mit Durchschlagskraft. Zudem war Kang Wang ein ausgezeichneter, lebensechter Roméo-Darsteller und beeindruckte mit seiner Lauterkeit. (As Roméo, house debutant Kang Wang brought a radiant, distinctively timbred tenor to the stage for the technically demanding role, with a tasteful vocal line. Wang developed his singing with musical mastery, style, and without kitsch. His voice fit perfectly with Takala's in the duets, and his arias were captivatingly powerful. The way Wang layered the delicate notes onto the orchestral foundation was impressive. In the high register, his voice seemed to know no bounds, remaining consistently supple. Everything sounded elegant, sung with great breath and without forcing. He shone with his power in the ensembles. Furthermore, Kang Wang was an excellent, lifelike Roméo performer and impressed with his clarity of voice.)"
-<br/>
+<br/><br/>
 
 <a href="https://www.opera.co.uk/issues/june-2025/" target="blank">Opera Magazine June 2025 Issue</a> : "He's a full-throated tenor who sang with outpourings of smooth but impassioned coloratura and high notes of remarkable purity. His voice had warmth, pathos, vigour and, above all, majesty of tone."
-<br/>
+<br/><br/>
 
 <a href="https://parterre.com/2025/04/22/brain-wurm/" target="blank">Parterre Box</a> : "Kang Wang, a highlight of Washington National Opera’s fall production of Macbeth, impressed again here as Rodolfo with an ardent, throwback style and big notes that opened up with a delicious ping. Wang showed restraint with all that firepower, however, reserving some thrilling surprises for the audience as he revealed additional gears in Act I’s climax and the final depths of despair in Act III. He also earned the biggest applause of the night for his handling of the show’s breakout number, 'Quando le sere al placido,' using subtle gradations between mezza voce and full voice effects to create an irresistible sense tension and release. Wang’s ability to generate real pathos with arguably one of the dumbest tenor characters in the Verdi library (c’mon dude, she did not leave you for your dad’s henchman Wurm) was no small feat."
 <br/>
