@@ -1,5 +1,6 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+<div>
 "Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."
 <br/>-- <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="blank">KlasikaPlus</a>
 
@@ -15,8 +16,8 @@
 "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen- (und Ohren-) hohe. -- (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye(and ear) level.)"
 <br/>-- <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a>
 
-<!--more-->
-<input type="checkbox" class="read-more-state" id="readmore"/>
+</div>
+<input type="checkbox" class="read-more-state" id="reviews"/>
 <div class="read-more">
 "Der Tenor Kang Wang lässt als Roméo im Strahl und in der kräftigen, aber lyrischen Vokalkonsistenz sogar an Neil Shicoff denken. (Tenor Kang Wang's radiance as Roméo, combined with his powerful yet lyrical vocal consistency, even brings to mind Neil Shicoff. )"
 <br/>-- <a href="https://www.concerti.de/oper/opern-kritiken/semperoper-dresden-romeo-et-juliette-3-5-2025/" target="blank">Concerti</a>
@@ -156,4 +157,4 @@ _“Young Australian-Chinese tenor Kang Wang was a finalist in the Cardiff Singe
 <br/>-- Broadway World
 
 </div>
-<label for="readmore" class="read-more-trigger"></label>
+<label for="reviews" class="read-more-trigger"></label>
