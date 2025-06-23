@@ -1,5 +1,6 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <br/>
+<div>
 _"Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."_
 <br/>-- <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="_blank">KlasikaPlus</a>
 
@@ -15,6 +16,7 @@ _"Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Gl
 _"Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen- (und Ohren-) hohe. -- (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye(and ear) level.)"_
 <br/>-- <a href="https://www.oper-magazin.de/" target="_blank">Oper! Magazin</a>
 
+</div>
 <!--more-->
 <input type="checkbox" class="read-more-state" id="{{ page.url }}"/>
 <div class="read-more">
