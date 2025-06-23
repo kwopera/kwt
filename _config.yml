@@ -3,6 +3,7 @@ logo: /assets/img/logo.png
 description: Official Website
 show_downloads: true
 future: true
+excerpt_separator: <!--more-->
 google_analytics:
 theme: jekyll-theme-minimal
 defaults:

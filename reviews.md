@@ -15,6 +15,8 @@ _"Dabei führte Jindra unaufgeregt zu großen, mitreißenden Höhen, die ihre Gl
 _"Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen- (und Ohren-) hohe. -- (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye(and ear) level.)"_
 <br/>-- <a href="https://www.oper-magazin.de/" target="_blank">Oper! Magazin</a>
 
+<!--more-->
+
 _"Der Tenor Kang Wang lässt als Roméo im Strahl und in der kräftigen, aber lyrischen Vokalkonsistenz sogar an Neil Shicoff denken. (Tenor Kang Wang's radiance as Roméo, combined with his powerful yet lyrical vocal consistency, even brings to mind Neil Shicoff. )"_
 <br/>-- <a href="https://www.concerti.de/oper/opern-kritiken/semperoper-dresden-romeo-et-juliette-3-5-2025/" target="_blank">Concerti</a>
 
