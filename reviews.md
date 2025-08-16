@@ -1,6 +1,12 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <div>
 <br/>
+<a href="https://www.forumopera.com/spectacle/verdi-la-traviata-erl/" target="blank">Forum Opera</a> : "I discovered for my part a voice that is clear without being strident, powerful without being nasal, and above all animated by subtle nuances perfectly suited to the situation ... he has perfectly assimilated the style of Verdian bel canto, and succeeds brilliantly in it."
+<br/><br/>
+
+<a href="https://www.omm.de/veranstaltungen/festspiele2025/ERL-2025-la-traviata.html" target="blank">Online Musik Magazin</a> : "Another highlight of the performance is the Australian-Chinese tenor Kang Wang in the role of Alfredo. Already in his first major aria in the first act, "Un di, felice, eterea," when he confesses his love to Violetta at the party, he captivates with precisely placed top notes. In the middle register, he delivers the role in an almost baritone manner with a powerful vocal delivery. He launches into the famous drinking song "Libiamo" with radiant high notes. His aria "De' miei bollenti spiriti" in the second act, when he sings of his happy country life with Violetta, is absolutely lyrical and smooth. When he then imagines her in the Baron's arms after his return to Paris, he presents Alfredo's jealousy in the highest tenor tones and, in the second scene at the ball in Paris, makes a scene that even makes the audience jump in their seats. "
+<br/><br/>
+
 <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="blank">KlasikaPlus</a> : "Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."
 <br/><br/>
 
