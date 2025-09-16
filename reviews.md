@@ -22,6 +22,7 @@
 </div>
 <span id="dots">...</span>
 
+<div id="more">
 <a href="https://www.pizzicato.lu/charles-gounods-romeo-et-juliette-an-der-semperoper-dresden/" target="blank">Pizzicato</a> : "Ja, der Romeo des chinesisch-australischen Sängers Kang Wang, er ist die eigentliche Sensation dieser Dresdner Opernproduktion: jung, gutaussehend und damit absolut glaubwürdig zum Verlieben und das mit einer fülligen, immer freien, nie engen Stimmgebung seines herrlichen Tenors. (Yes, the Romeo of the Chinese-Australian singer Kang Wang, he is the real sensation of this Dresden opera production: young, handsome and therefore absolutely believable enough to fall in love with, and all this with a rich, always free, never tight voice from his magnificent tenor.)"
 <br/><br/>
 
@@ -34,7 +35,6 @@
 <a href="https://www.opera.co.uk/issues/june-2025/" target="blank">Opera Magazine June 2025 Issue</a> : "He's a full-throated tenor who sang with outpourings of smooth but impassioned coloratura and high notes of remarkable purity. His voice had warmth, pathos, vigour and, above all, majesty of tone."
 <br/><br/>
 
-<div id="more">
 <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a> : "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen (und Ohren) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye (and ear) level.)"
 <br/><br/>
 
