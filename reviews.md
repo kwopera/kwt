@@ -1,6 +1,15 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <div>
 <br/>
+<a href="https://theatrethoughtsaus.online/la-boheme-sydney-opera-house-review/" target="blank">Theatre Thoughts</a> : "Kang Wang performs the role of love-stricken writer, Rodolfo. His exquisite opening aria sets a stunning standard for the evening – attracting such a long ovation it halted the flow of Act I. Wang’s voice is smooth yet radiant, engaging a masterfully chiaroscuro sound that soars over the orchestra with ease."
+<br/><br/>
+
+<a href="https://musicaltheatre.au/2025/08/24/review-kang-wang-and-olivia-cranwell-star-in-incredible-la-boheme-performance/" target="blank">MusicTheatre Australia</a> : "Kang Wang in particular gave a jaw-dropping, world-class performance displaying incredible lyricism in his upper register as he latched onto Puccini’s soaring lines. His performance was truly riveting, displaying a mastery of his craft that was a true pleasure to watch. The audience recognised this, giving him one of the lengthiest mid-show ovations during the first act that I have seen at the Joan Sutherland Theatre. It truly was worth the price of admission alone."
+<br/><br/>
+
+<a href="https://www.australianbookreview.com.au/arts-update/101-arts-update/14526-la-boheme-opera-australia-s-sublime-revival-of-puccini-s-opera-by-michael-halliwell" target="blank">Australian Book Review</a> : "Rodolfo is beloved of lyric tenors and Wang soon revealed his burnished tone and warm middle register, while displaying the necessary Italianate ringing high notes including a superlative high C in ‘Che gelida manina’ – an aria that evokes much expectation and is one of the great tenor showpieces in the repertoire. This is a splendid voice with a gleaming quality throughout the range, tireless through the whole of this demanding role. Technically, the voice seems perfectly placed, projecting effortlessly. He has an engaging stage persona and the tragic moments in Act Four were full of sincerity and ringing intensity. This was some of the most impressive singing heard in the Joan Sutherland theatre for many a day. "
+<br/><br/>
+
 <a href="https://www.forumopera.com/spectacle/verdi-la-traviata-erl/" target="blank">Forum Opera</a> : "I discovered for my part a voice that is clear without being strident, powerful without being nasal, and above all animated by subtle nuances perfectly suited to the situation ... he has perfectly assimilated the style of Verdian bel canto, and succeeds brilliantly in it."
 <br/><br/>
 
@@ -9,6 +18,9 @@
 
 <a href="https://www.klasikaplus.cz/romeo-a-julie-v-drazdanech-gounodova-opera-uvedena-pod-jindrovou-taktovkou/?fbclid=IwY2xjawKpcsBleHRuA2FlbQIxMQBicmlkETE0VVY3d1RwOVh2UmpraWNHAR7PGtvsGgS7cYce4DUUVtiwiTjq5YKEthXj-GAxdPa6dheMsbw_cBNjC9psnQ_aem_gmTexOH7IJ51NgeqHhvvtA" target="blank">KlasikaPlus</a> : "Outstanding were not only the chorus and orchestra, but also the soloists — especially Kang Wang as Roméo, who took on this challenging role with absolute mastery. He impressed not only with his solid high notes, which rang out fully even above the entire orchestra, but also with the dynamic nuance he brought to the whole role, including sonorous pianissimos. His acting was also extremely natural. Wang is a singer we will certainly hear much more from in the future."
 <br/><br/>
+
+</div>
+<span id="dots">...</span>
 
 <a href="https://www.pizzicato.lu/charles-gounods-romeo-et-juliette-an-der-semperoper-dresden/" target="blank">Pizzicato</a> : "Ja, der Romeo des chinesisch-australischen Sängers Kang Wang, er ist die eigentliche Sensation dieser Dresdner Opernproduktion: jung, gutaussehend und damit absolut glaubwürdig zum Verlieben und das mit einer fülligen, immer freien, nie engen Stimmgebung seines herrlichen Tenors. (Yes, the Romeo of the Chinese-Australian singer Kang Wang, he is the real sensation of this Dresden opera production: young, handsome and therefore absolutely believable enough to fall in love with, and all this with a rich, always free, never tight voice from his magnificent tenor.)"
 <br/><br/>
@@ -21,9 +33,6 @@
 
 <a href="https://www.opera.co.uk/issues/june-2025/" target="blank">Opera Magazine June 2025 Issue</a> : "He's a full-throated tenor who sang with outpourings of smooth but impassioned coloratura and high notes of remarkable purity. His voice had warmth, pathos, vigour and, above all, majesty of tone."
 <br/><br/>
-
-</div>
-<span id="dots">...</span>
 
 <div id="more">
 <a href="https://www.oper-magazin.de/" target="blank">Oper! Magazin</a> : "Der australisch-chinesische Tenor Kang Wang verlieh seinem Romeo kraftvollen Wohlklang und spielerisch glaubwurdige Darstellung, war ein ebenburtiger Partner auf Augen (und Ohren) hohe. (The Australian-Chinese tenor Kang Wang sang his Romeo powerfully and sonorously, a playfully credible performance, and an equal partner on eye (and ear) level.)"
