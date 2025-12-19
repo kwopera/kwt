@@ -1,6 +1,13 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <div>
 <br/>
+<a href="https://parterre.com/2025/11/27/monkey-business-3/#google_vignette" target="blank">Paterre Box</a> : "Wang was indisputably the star of the show; not only did he give Wukong gravitas with the dark timbre of his voice, but he also fully immersed himself in the role, from the carefree mannerisms to the pompous boasting, creating a complete personification ... I wasn’t prepared for Wukong’s powerful Act II aria, “In the Land of Bliss,” as it completely overwhelmed me ... the aria was performed by debuting tenor Kang Wang with jaw-dropping intensity that seemingly froze the moment in time! "
+<br/><br/>
+
+<a href="https://www.sfchronicle.com/entertainment/article/sf-opera-monkey-king-review-21104885.php" target="blank">San Francisco Chronicle</a> : "Topping everything off are the extraordinary star-making debut in the title role by tenor Kang Wang — a seemingly inexhaustible fount of vocal stamina and physical mastery ...
+And near the end of the opera ... he sings an aria of placid exultation whose beauty is almost too rich to believe ... The success of that scene, and many others, owes almost everything to Wang’s jaw-dropping artistry in the title role. He sings with a blend of power and translucent lyricism. His physical presence, with its monkey-like tics and dancer’s grace, radiates charisma."
+<br/><br/>
+
 <a href="https://theatrethoughtsaus.online/la-boheme-sydney-opera-house-review/" target="blank">Theatre Thoughts</a> : "Kang Wang performs the role of love-stricken writer, Rodolfo. His exquisite opening aria sets a stunning standard for the evening – attracting such a long ovation it halted the flow of Act I. Wang’s voice is smooth yet radiant, engaging a masterfully chiaroscuro sound that soars over the orchestra with ease."
 <br/><br/>
 
