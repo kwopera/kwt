@@ -1,6 +1,15 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <div>
 <br/>
+<a href="https://opera-diary.com/2026/01/21/nabucco-bayerische-staatsoper/" target="blank">Opera Diary</a> : “In the cast, the most remarkable impression comes from Kang Wang, making his house debut as Ismaele. It is not a large role, nor one designed to dominate the evening, and yet Wang’s presence does exactly that each time he steps onstage. His tenor carries a luminous, finely spun timbre, capable of striking ardour in his first exchanges with Fenena as well as of beautifully tapered lines in “Io t’amava.” There is already something unmistakably expansive in the way he phrases, something that suggests a voice and an artistry ready to grow far beyond this part. For a debut, it is nothing short of glorious, and it leaves one impatient to hear what roles will follow—Verdi certainly, but not only Verdi.”
+<br/><br/>
+
+<a href="https://www.abendzeitung-muenchen.de/kultur/buehne/opernhitze-zwischen-eisigen-bergen-lucia-di-lammermoor-in-erl-art-1102243" target="blank">AbendZeitung Munchen</a> : "Die ein wenig undankbare Tenor-Hauptrolle des Edgardo ist bei Kang Wang in besten Händen. Die Stimme des australisch-chinesischen Sängers hält Schmelz und Metall in ausgewogener Balance, dazu gestaltet er die Melodielinien mit Geschmack." (The somewhat thankless tenor role of Edgardo is in excellent hands with Kang Wang. The Australian-Chinese singer's voice maintains a perfect balance between warmth and power, and he shapes the melodic lines with impeccable taste.)
+<br/><br/>
+
+<a href="https://www.omm.de/veranstaltungen/festspiele2026/ERL-2026-lucia-di-lammermoor.html" target="blank">Online Musik Magazin</a> : "Kang Wang, der im Sommer in Erl bereits als Alfredo Germont in Verdis La traviata das Publikum begeisterte, glänzt auch als Lucias Geliebter Edgardo Ravenswood mit dunkel gefärbtem Tenor und sauber ausgesungenen Höhen. Vor allem in seiner Schlussarie "Tu che a Dio spiegasti l'ali" lässt er tenoralen Glanz verströmen. Im großen Liebesduett mit Blanch finden die beiden stimmlich zu einer bewegenden Innigkeit." (Kang Wang, who already thrilled audiences in Erl this summer as Alfredo Germont in Verdi's La traviata , also shines as Lucia's lover Edgardo Ravenswood with his dark-hued tenor and cleanly sung high notes. He particularly radiates tenor brilliance in his final aria, "Tu che a Dio spiegasti l'ali." In the great love duet with Blanch, the two achieve a moving vocal intimacy. )
+<br/><br/>
+
 <a href="https://parterre.com/2025/11/27/monkey-business-3/#google_vignette" target="blank">Paterre Box</a> : "Wang was indisputably the star of the show; not only did he give Wukong gravitas with the dark timbre of his voice, but he also fully immersed himself in the role, from the carefree mannerisms to the pompous boasting, creating a complete personification ... I wasn’t prepared for Wukong’s powerful Act II aria, “In the Land of Bliss,” as it completely overwhelmed me ... the aria was performed by debuting tenor Kang Wang with jaw-dropping intensity that seemingly froze the moment in time! "
 <br/><br/>
 
