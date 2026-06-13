@@ -1,6 +1,20 @@
 <h3 id="reviews"><a href="{{ "/reviews.html" | absolute_url }}#reviews">REVIEWS</a></h3>  
 <div>
 <br/>
+<a href="https://omm.de/veranstaltungen/festspiele2026/DO-2026-la-favorite.html" target="blank">Online Musik Magazin</a> : “Kang Wang setzt bereits in seiner ersten Romanze "Une ange, une femme inconnue" besondere Akzente. Mit weichem, warmem Tenor schraubt er sich scheinbar ohne jegliche Anstrengung in strahlende Höhen empor und klingt dabei absolut unschuldig und rein. Es folgt ein bewegendes Duett mit
+
+Im letzten Akt ist man dann wieder im Kloster angekommen. Hier will sich Fernand endgültig von der Geliebten lossagen und besingt sie erneut mit einer großartigen Tenorarie, "Ange si pur", die Donizetti aus seiner unvollendeten Oper Le Duc d'Albe eingefügt hat. Wang begeistert erneut durch grandiose Spitzentöne, in denen er eine unglaubliche Flexibilität und Geschmeidigkeit beweist. Das abschließende Duett mit Abrahamyan geht in der Interpretation der beiden unter die Haut.
+
+(Kang Wang already makes a striking impression in his very first romance, "Une ange, une femme inconnue." With his soft, warm tenor, he ascends effortlessly to radiant high notes, sounding utterly innocent and pure throughout. This is followed by a deeply moving duet with Abrahamyan.
+In the final act, the action returns to the monastery. Here, Fernand resolves once and for all to renounce his beloved and once again sings of her in the magnificent tenor aria "Ange si pur," which Donizetti incorporated from his unfinished opera Le Duc d'Albe. Wang once again captivates the audience with his brilliant top notes, displaying remarkable flexibility and smoothness. The concluding duet with Abrahamyan is profoundly moving in their interpretation, touching the listener to the core.)”
+<br/><br/>
+
+<a href="https://www.ruhrnachrichten.de/" target="blank">Ruhr Nachrichten</a> : “Der Tenor war ein Ereignis ... Vor allem war der auf vielen Bühnen gefeierte australisch-chinesische Tenor Kang Wang als Novize Fernand ein emotional beeindruckender Gestalter, der mit seiner großen Schluss-Arie im vierten Akt das Publikum fast zu Tränen rührte und schon nach seiner Auftrittsarie im ersten Akt Bravo-Rufe aus dem Publikum bekam. Mit seinem sehr schönen und leicht baritonal gefärbten Tenor war er die perfekte Besetzung für den jungen, lyrischen Liebhaber.
+
+(The tenor was a sensation. Above all, the acclaimed Australian-Chinese tenor Kang Wang, appearing as the novice Fernand, delivered an emotionally compelling performance. His great final aria in the fourth act nearly moved the audience to tears, and he already received shouts of “Bravo!” from the audience after his entrance aria in the first act. With his very beautiful tenor voice, tinged with a slight baritonal color, he was the perfect casting choice for the young lyrical lover.)
+”
+<br/><br/>
+
 <a href="https://operawire.com/metropolitan-opera-2025-26-review-la-traviata-cast-b/" target="blank">OperaWire</a> : “Tenor Kang Wang’s voice during his opening aria, “Libiamo nè lieti calici (Brindisi)” set the standard for his role’s capacity to sustain the audience’s attention and illuminated his vocal agility, as well. Wang’s bright voice was supported by his warm timbre and excellent breath support. This made his lyrical voice clearly resonate throughout the Met’s hall and his expressiveness came across as genuinely engaging. There was a tenderness in Wang’s delivery that created a blossoming chemistry with Jaho’s Violetta, resulting in their combined ability to tug at the heart strings of the audience … Wang’s vocal palette made this scene multidimensional … Wang’s voice never faltered even at the height of his emotions, instead he leaned into his diaphragm and dug up the guts for his role’s underlying intentions–simply to love and to be loved in return. It was this level of conscious alignment that continued to feed the minds of listeners. He made Alfredo human, not a fantasy … Wang’s performance was a masterpiece.”
 <br/><br/>
 
